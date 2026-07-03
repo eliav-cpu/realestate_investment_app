@@ -73,6 +73,27 @@ Use language around:
 אם כבר רוכשים בגאורגיה — לא מתחילים לבד.
 מתחילים עם מי שמכיר את היזמים, הפרויקטים והשטח.
 
+## Continuous update rule
+
+Whenever a strong phrase, strong wording pattern, competitor insight, smart hook, high-converting CTA, better objection answer, or sharper commercial expression is discovered in future work, add it to the language bank.
+
+The language bank is not a one-time document. It is a living layer for Prime Invest, EXEL, ATLAS, Excel systems, funnels, WhatsApp flows, landing pages, decks, proposals, CRM screens, follow-ups, and internal dashboards.
+
+Every future discovery should be classified into one of these groups:
+
+- Hook
+- Hero
+- CTA
+- Proof language
+- Developer / direct purchase language
+- Money language
+- Financing language
+- Trust language
+- Process language
+- Objection handling
+- WhatsApp / follow-up language
+- Forbidden weak wording
+
 ## Operating rule
 
 Every new customer-facing sentence should pass through this check:
