@@ -1,10 +1,18 @@
 # Prime Invest — Language Healing Principles
 
-Updated: 2026-07-03
+Updated: 2026-07-05
 
 This document defines a permanent wording layer for Prime Invest and related EXEL / ATLAS work.
 
 The goal is to convert weak, generic wording into richer, sharper, more human and more commercial Hebrew.
+
+## Global synchronization rule
+
+From this point forward, all Prime Invest, EXEL, ATLAS, Excel, landing page, WhatsApp, simulator, CRM, proposal, dashboard, deck, follow-up, investor journey and marketing work must use this language system as the default operating language.
+
+This is not only a Prime copy bank. It is a shared language layer for the entire work environment.
+
+Every future chat, asset, research summary, competitor analysis, automation brief, spreadsheet, product screen, sales flow or customer-facing text should be written through this language filter unless explicitly instructed otherwise.
 
 ## Core idea
 
