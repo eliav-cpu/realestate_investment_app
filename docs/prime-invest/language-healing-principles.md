@@ -1,16 +1,26 @@
-# Prime Invest / EXEL — Language Healing Principles
+# EXEL Language OS — ריפוי שפתי ואדריכלות עסקה
 
 Updated: 2026-10-07
 
-This document defines a permanent wording layer for Prime Invest, EXEL and related ATLAS / Excel work.
+This document defines the primary language system for EXEL, and the connected legacy / campaign layer for Prime Invest.
 
-The goal is to convert weak, generic wording into richer, sharper, more human and more commercial Hebrew.
+Prime was the first language layer. EXEL is the upgraded operating system.
+
+The goal is to convert weak, generic wording into richer, sharper, more human and more commercial Hebrew — but now with a deeper strategic layer:
+
+- financial characterization
+- financial check-up
+- tax review before purchase
+- business plan before purchase
+- deal architecture
+- full professional envelope
+- one guided path toward real financial freedom
 
 ## Global synchronization rule
 
-From this point forward, all Prime Invest, EXEL, ATLAS, Excel, landing page, WhatsApp, simulator, CRM, proposal, dashboard, deck, follow-up, investor journey and marketing work must use this language system as the default operating language.
+From this point forward, all EXEL, Prime Invest, ATLAS, Excel, landing page, WhatsApp, simulator, CRM, proposal, dashboard, deck, follow-up, investor journey and marketing work must use this language system as the default operating language.
 
-This is not only a Prime copy bank. It is a shared language layer for the entire work environment.
+This is not a Prime copy bank. It is the EXEL language operating system for the entire work environment.
 
 Every future chat, asset, research summary, competitor analysis, automation brief, spreadsheet, product screen, sales flow or customer-facing text should be written through this language filter unless explicitly instructed otherwise.
 
@@ -20,27 +30,100 @@ Do not write like a form.
 Do not write like a generic lead page.
 Do not write like AI.
 Do not write like a legal disclaimer in the main headline.
+Do not center the language around "בדיקה".
 
-Write like a strong Israeli operator who understands the client, the process, the people behind the product, and the next step.
+Write like a strong Israeli real-estate deal architect who understands the client, the capital, the risk, the tax angle, the financing, the people behind the deal, and the next step.
 
-## Main language pillars
+## EXEL is the mother language
 
-1. Clear value
-2. Proven people
-3. Guided process
-4. Direct access
-5. Human Hebrew
-6. Specific next step
-7. Deal architecture
-8. Single Deal Owner
+EXEL is not a project seller.
+EXEL is not another real-estate marketing company.
+EXEL is not a lead form.
+EXEL is not a campaign page.
 
-## Prime core sentence
+EXEL is Deal Architecture.
+
+Core Hebrew frame:
+
+מסלול אדריכלות העסקה של EXEL — הדרך הישראלית לבנות, להבין ולבחור עסקת נדל״ן בינלאומית לפי הלקוח, לא רק לפי הפרויקט.
+
+The client should feel:
+
+- someone is mapping my financial situation
+- someone understands my capital
+- someone sees the tax angle before I buy
+- someone builds the business plan before the purchase
+- someone checks the deal as a whole
+- someone gives me the professional envelope
+- someone is building my path, not selling me a random unit
+
+## Main EXEL language pillars
+
+1. Financial characterization — אפיון פיננסי
+2. Financial check-up — צ׳ק-אפ פיננסי
+3. Deal architecture — אדריכלות עסקה
+4. Business plan before purchase — תוכנית עסקית לפני רכישה
+5. Tax review before purchase — ייעוץ / בדיקת מיסוי לפני רכישה
+6. Full professional envelope — מעטפת מלאה
+7. Real estate wisdom — חוכמת הנדל״ן
+8. Checked real estate — נדל״ן שנבדק
+9. Seeing the whole deal — רואים את כל העסקה
+10. Single Deal Owner — אדם אחד שמחזיק את העסקה
+11. Guided path to financial freedom — מסלול בדרך לחופש כלכלי אמיתי
+12. Human Hebrew — שפה ישראלית חדה, טבעית וחכמה
+
+## Core EXEL sentences
+
+EXEL — חוכמת הנדל״ן.
+
+נדל״ן שנבדק.
+
+רואים את כל העסקה.
+
+לא מתחילים מפרויקט. מתחילים מהעסקה.
+
+לא מוכרים לכם דירה. בונים לכם דרך להבין עסקה.
+
+לפני שרוכשים נכס בחו״ל, בונים תוכנית.
+
+תשואה יפה לא מספיקה. צריך להבין איך היא נוצרת.
+
+עסקת נדל״ן טובה היא לא הבטחה. היא מבנה.
+
+הדרך הישראלית לבדוק עסקת נדל״ן בינלאומית — יזם, מיקום, חוזה, מימון, תזרים, עלויות, מיסוי, סיכונים וליווי מלא בעברית.
+
+## Language to replace "בדיקה"
+
+Avoid centering assets around:
+
+- בדיקת התאמה
+- בדיקה ראשונית
+- בואו לבדוק
+- נבדוק אם מתאים
+- בדקו אם זה מתאים לכם
+
+Use stronger EXEL language:
+
+- אפיון פיננסי
+- צ׳ק-אפ פיננסי
+- בניית מסלול רכישה
+- אדריכלות עסקה
+- פגישת אפיון
+- פגישת אדריכלות עסקה
+- בניית תוכנית עסקית לפני רכישה
+- מיפוי הון, מימון, מיסוי וסיכונים
+- מסלול לרכישת נדל״ן בינלאומי בצורה מסודרת
+- הדרך להבין את העסקה לפני שמתקדמים
+
+## Prime legacy / campaign layer
+
+Prime can still be used as a campaign or funnel layer when needed, especially for Georgia-focused journeys.
+
+Prime language should still follow:
 
 אנחנו לא שולחים אתכם לגאורגיה. אנחנו מביאים את גאורגיה אליכם — בעברית, בישראל, עם ליווי מלא מאפס עד 100.
 
-## Prime operating frame
-
-Prime is not only a project page. Prime is a journey:
+Prime journey:
 
 Ad / landing page -> 100K test -> initial eligibility -> investment direction -> WhatsApp / video / simulator -> intro meeting.
 
@@ -56,45 +139,26 @@ Prime should sound like:
 - מה קורה אחרי החתימה
 - לא מתחילים לבד מול מדינה זרה
 
-## EXEL operating frame
+But EXEL is the primary strategic layer.
 
-EXEL is not a project seller.
+## EXEL customer journey
 
-EXEL is Deal Architecture.
+The EXEL journey is not a form.
+It is a professional path:
 
-Core EXEL language:
+1. Client enters through money / concern / ambition / opportunity.
+2. EXEL performs financial characterization.
+3. EXEL maps capital, financing, tax angle, goals, time horizon and risk.
+4. EXEL explains which type of deal can fit: managed asset, urban apartment, presale / appreciation, hotel-branded asset, or another route.
+5. EXEL builds a business view before purchase.
+6. EXEL reviews the deal: developer, location, contract, financing, cash flow, costs, tax, risks, management and exit.
+7. EXEL guides the client toward a decision.
 
-- מסלול אדריכלות העסקה של EXEL
-- חוכמת הנדל״ן
-- נדל״ן שנבדק
-- רואים את כל העסקה
-- לא מתחילים מפרויקט. מתחילים מהעסקה.
-- תשואה יפה לא מספיקה. צריך להבין איך היא נוצרת.
-- עסקת נדל״ן טובה היא לא הבטחה. היא מבנה.
-- הדרך הישראלית לבדוק עסקת נדל״ן בינלאומית — יזם, מיקום, חוזה, מימון, תזרים, עלויות, סיכונים וליווי מלא בעברית.
+The emotional journey:
 
-## Latest research insights to apply
+Confusion -> clarity -> trust -> control -> confidence -> action.
 
-### 1. Journey by persuasion mechanism
-
-Do not build random landing pages. Build journeys by persuasion mechanism:
-
-- 100K Test — money curiosity and entry threshold
-- 30% Equity — financing reframe
-- Do not start alone in Georgia — foreign-country fear into guided process
-- Direct from developer — trust and access
-- Prime Key Club — status, access and priority
-- First asset in Georgia — simplification for new investors
-- Managed resort — lifestyle plus operational quiet
-- Urban apartment in Tbilisi — control, city, clarity
-- Luxury presale — future-oriented investor
-- 7 mistakes before buying abroad — loss aversion
-- Real cost calculator — numbers and trust
-- Israel vs Georgia comparison — contrast
-- Project table / investment direction — guided choice
-- Proof on the ground — authority before offer
-
-### 2. Single Deal Owner
+## Single Deal Owner
 
 A strong service promise discovered from competitor analysis:
 
@@ -102,28 +166,39 @@ A strong service promise discovered from competitor analysis:
 
 Use only when operations and CRM support it.
 
-Meaning: the client does not manage lawyer, financing, developer, management, due diligence and documents alone. EXEL / Prime manages the deal architecture around the client.
+Meaning: the client does not manage lawyer, financing, developer, management, due diligence, tax review and documents alone. EXEL manages the deal architecture around the client.
 
-### 3. WhatsApp is not a sales reminder
+## Journey by persuasion mechanism
 
-WhatsApp must feel like progress in a journey:
+Do not build random landing pages. Build journeys by persuasion mechanism:
 
-- Lead enters 100K test
-- Gets initial eligibility
-- Chooses investment direction
-- Understands what happens in the meeting
-- Books intro meeting
-- Arrives warmer and better prepared
+- 100K Test — money curiosity and entry threshold
+- 30% Equity — financing reframe
+- Financial Check-Up — mapping capital, financing, tax and goals
+- Deal Architecture — full deal view before purchase
+- Do not start alone abroad — foreign-country fear into guided process
+- Direct from developer — trust and access
+- First international asset — simplification for new investors
+- Managed asset — lifestyle plus operational quiet
+- Urban apartment — control, city, clarity
+- Luxury presale — future-oriented investor
+- 7 mistakes before buying abroad — loss aversion
+- Real cost calculator — numbers and trust
+- Israel vs international comparison — contrast
+- Deal type selector — guided choice
+- Proof on the ground — authority before offer
 
-Language should be short, Israeli, curious and not pushy.
-
-### 4. Page structure for performance
+## Page structure for performance
 
 For short performance pages, use:
 
 Hook -> Offer -> Trust -> Form -> Curiosity
 
-The page should not close the full sale. It should move the client to the next step.
+For EXEL strategic pages, use:
+
+Hook -> Financial Characterization -> Deal Architecture -> Professional Envelope -> Meeting
+
+The page should not close the full sale. It should move the client to the next professional step.
 
 ## Avoid as main language
 
@@ -141,8 +216,31 @@ The page should not close the full sale. It should move the client to the next s
 - הזדמנות שלא תחזור
 - שפה גנרית מדי
 - שפה משפטית מדי
+- הבטחת תשואה
+- מימון מובטח
+- השקעה בטוחה בלי סיכון
 
 ## Strong phrase pairs
+
+לא מתחילים מפרויקט.
+מתחילים מהעסקה.
+
+לא מוכרים לכם דירה.
+בונים לכם דרך להבין עסקה.
+
+תשואה יפה לא מספיקה.
+צריך להבין איך היא נוצרת.
+
+לפני שרוכשים נכס בחו״ל, בונים תוכנית.
+
+הלקוח לא צריך עוד מצגת.
+הוא צריך להבין את העסקה.
+
+עסקת נדל״ן טובה היא לא הבטחה.
+היא מבנה.
+
+אדם אחד שמחזיק את העסקה שלכם.
+ומאחוריו כל המומחים שנדרשים כדי לבצע אותה נכון.
 
 לא קונים נכס בחו״ל בגלל תמונה יפה.
 קונים אחרי שמבינים מי היזם, מה המיקום, איך עובד התהליך ומי מלווה אתכם.
@@ -150,26 +248,11 @@ The page should not close the full sale. It should move the client to the next s
 היתרון הוא לא רק הנכס.
 היתרון הוא הדרך שבה מגיעים אליו.
 
-רכישה ישירה מהיזם לא אומרת לבד.
-היא אומרת להגיע נכון, עם Prime לצדכם.
-
-אם כבר רוכשים בגאורגיה — לא מתחילים לבד.
-מתחילים עם מי שמכיר את היזמים, הפרויקטים והשטח.
-
-לא מתחילים מפרויקט.
-מתחילים מהעסקה.
-
-תשואה יפה לא מספיקה.
-צריך להבין איך היא נוצרת.
-
-אדם אחד שמחזיק את העסקה שלכם.
-ומאחוריו כל המומחים שנדרשים כדי לבצע אותה נכון.
-
 ## Continuous update rule
 
 Whenever a strong phrase, strong wording pattern, competitor insight, smart hook, high-converting CTA, better objection answer, or sharper commercial expression is discovered in future work, add it to the language bank.
 
-The language bank is not a one-time document. It is a living layer for Prime Invest, EXEL, ATLAS, Excel systems, funnels, WhatsApp flows, landing pages, decks, proposals, CRM screens, follow-ups, and internal dashboards.
+The language bank is not a one-time document. It is a living layer for EXEL, Prime Invest, ATLAS, Excel systems, funnels, WhatsApp flows, landing pages, decks, proposals, CRM screens, follow-ups, and internal dashboards.
 
 Every future discovery should be classified into one of these groups:
 
@@ -186,6 +269,9 @@ Every future discovery should be classified into one of these groups:
 - WhatsApp / follow-up language
 - Forbidden weak wording
 - Deal architecture language
+- Financial characterization language
+- Tax review language
+- Business plan language
 - Single Deal Owner language
 
 ## Operating rule
@@ -200,5 +286,7 @@ Every new customer-facing sentence should pass through this check:
 6. Does it make the next step clear?
 7. Does it explain the deal, not just the project?
 8. Does it support the customer journey instead of acting as a standalone asset?
+9. Does it reflect EXEL as the primary strategic layer?
+10. Does it move the client toward clarity, not pressure?
 
 If not, rewrite it.
