@@ -28,6 +28,29 @@ EXEL is designed to bring better-prepared people into smarter meetings.
 
 EXEL — מערכת החלטה למשקיע נדל״ן בינלאומי.
 
+## Wyndham / managed-property wording rule
+
+Do not use the phrase "מודל מלונאי" in public-facing copy.
+Do not center the offer around "hotel model", "hotel unit" or similar wording unless the exact legal and commercial structure explicitly requires it and has been approved.
+
+Preferred wording:
+
+- נכס מנוהל
+- דירה בטאבו עם ניהול מקצועי
+- נכס בתפעול מקצועי
+- ניהול מקצה לקצה
+- ניהול והשכרה באמצעות גורם מקצועי
+- נכס שמיועד למשקיע שלא רוצה לנהל שוכרים ותפעול יומיומי בעצמו
+- מנוע ביקוש פעיל
+- מותג בינלאומי
+- מיקום שמבוסס על תנועה אמיתית
+- צפי הכנסה בכפוף לנתוני הפרויקט, תפוסה, עלויות ותנאי ניהול
+
+Core replacement:
+
+Instead of: דירה במודל מלונאי מנוהל.
+Use: דירה בטאבו עם ניהול מקצועי מקצה לקצה, שמיועדת למשקיעים שלא רוצים להתעסק בשוכרים, תפעול וניהול יומיומי.
+
 ## Shift in thinking
 
 Not a website that displays projects.
@@ -333,6 +356,7 @@ Examples:
 - תשואה יפה -> צריך להבין איך היא נוצרת
 - מעטפת מלאה -> אדם אחד שמחזיק את העסקה
 - פרויקט מדהים -> עסקה שעוברת פירוק אמיתי
+- מודל מלונאי -> דירה בטאבו עם ניהול מקצועי מקצה לקצה
 
 ## 20. Canon by Data
 
